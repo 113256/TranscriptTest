@@ -1,37 +1,308 @@
-{
-  "Candidate Name": "Souheyb Boularak",
-  "Summary of the interview transcript": "The candidate, Souheyb Boularak, had a conversation with the interviewer, Eleonore Wall, discussing various points related to the immigration process, payment arrangements, work preferences, and the success rate of getting a visa. Souheyb seemed to be busy and had a tight schedule during the conversation.",
-  "Work Experience": "Not mentioned in the transcript.",
-  "Education": "The candidate confirmed having a Bachelor's and Master's degree.",
-  "Skills": "Technical skills were not explicitly discussed in the transcript.",
-  "Career Achievements": "No specific career achievements mentioned in the transcript.",
-  "Motivation and Interest": "Souheyb expressed interest in immigration to Germany and discussed various concerns regarding the immigration process and work preferences.",
-  "Salary Expectations": "Not mentioned in the transcript.",
-  "Availability and Start Date": "The candidate discussed his availability for the next meeting, scheduled on Friday at 5:30 PM (Germany time).",
-  "Reasons for Job Change": "Not mentioned in the transcript.",
-  "Work Preferences": "Souheyb inquired about the possibility of working remotely from his home country while employed by a German company. The interviewer explained that such arrangements depend on the specific employer's policies.",
-  "Legal and Work Authorization": "The candidate discussed the process of obtaining a work permit and visa to work in Germany. The interviewer clarified that while they can provide general assessments of eligibility for the Blue Card, they cannot guarantee a visa as it is a decision made by the embassy.",
-  "Candidate Concerns": "The candidate expressed concerns about the upfront cost of the immigration process and the success rate of getting a visa. The interviewer addressed these concerns by explaining the payment arrangement and emphasizing that the success rate is generally high, but it depends on individual circumstances.",
-  "Questions Asked by the Candidate and Answers": [
-    {
-      "Question": "The candidate inquired about breaking down the upfront payment for the immigration process into smaller amounts.",
-      "Answer": "The interviewer explained that they cannot break down the payment into smaller amounts than what is already offered, which is within the same month."
-    },
-    {
-      "Question": "The candidate asked about the possibility of working remotely from his home country for a few months per year if he gets a work contract in Germany.",
-      "Answer": "The interviewer explained that such arrangements depend on the policies of the specific employer in Germany, and they cannot guarantee it."
-    },
-    {
-      "Question": "The candidate asked about the success rate of getting a visa after obtaining a work permit from an employer.",
-      "Answer": "The interviewer clarified that having a work permit from an employer increases the chances of getting a visa, but they cannot guarantee it as it is a decision made by the embassy and depends on individual circumstances."
-    },
-    {
-      "Question": "The candidate sought clarification about certain points in the payment agreement and other articles related to the immigration process.",
-      "Answer": "The interviewer provided explanations and details to clarify the candidate's questions."
-    },
-    {
-      "Question": "The candidate inquired about the consequences of certain incidents during the immigration process.",
-      "Answer": "The interviewer explained that certain incidents may lead to a pause in the process until the issues are corrected, but it is not a termination."
-    }
-  ]
-}
+
+Eleonore Wall 00:34 This meeting is being recorded. Hi the candidate just had appeared and then disappeared. Again. 
+
+Souheyb Boularak 02:23 Hello. Hi. 
+
+Eleonore Wall 02:28 Hello? Could you hear me? Yes, but not see yet. 
+
+Souheyb Boularak 02:32 A moment. 
+
+Eleonore Wall 02:43 Can you see me now? Hello. Yes, Hi. Good to see you. 
+
+Souheyb Boularak 02:49 Again? How are you. 
+
+Eleonore Wall 02:51 Fantastic and good to see you. Like how have you been ever since we spoke. 
+
+Souheyb Boularak 02:57 Not busy a lot, but I'm doing fine. Hello and. 
+
+Henry Ukpere 03:04 Nice to see you today. 
+
+Eleonore Wall 03:09 Great. Okay. So what is your thought process. New thought process. I think we were in the middle of it last time when we left off. Right. Yes. 
+
+Souheyb Boularak 03:24 And. We have made the agreement to send you some notes about what we're going to. Yes. I see. Also, I want to adjust. To. Copy. I have 7.7 points. 
+
+Eleonore Wall 03:50 Yes, I'm having a voice to be here. 
+
+Souheyb Boularak 03:53 Yeah, one by one. Okay. So now I will share it. Okay. 
+
+Eleonore Wall 04:09 Everyone. I'm having. It also Additionally open so it's all good. 
+
+Souheyb Boularak 04:15 So your. Message is too long. Okay. 
+
+Eleonore Wall 04:21 I have your WhatsApp message with me. So that's all fine. I'm having your what's up. 
+
+Souheyb Boularak 04:29 Okay, let's start point by point. So the first point, we have seven points. 
+
+Eleonore Wall 04:34 Yes. So the first one is regarding. 
+
+Souheyb Boularak 04:41 The proposed band from the upfront cost the immigration process will be helpful to understand the breakdown. Okay. I want to break down the process of payment. Into. Like four parts from four to six. Parts after each. 
+
+Souheyb Boularak 05:05 Step of the process. 
+
+Eleonore Wall 05:10 Sorry. 
+
+Souheyb Boularak 05:13 The fees up front fees, Yes. They are about. 100. 
+
+Eleonore Wall 05:21 Euro Correct. Yes. 
+
+Souheyb Boularak 05:25 So I want to pay them in sales months. So I'm not paying them. Pay all the amount. 
+
+Eleonore Wall 05:34 That's not possible. In short. 
+
+Souheyb Boularak 05:38 I have to pay. 
+
+Eleonore Wall 05:40 The 1.5. We are talking 1500. Correct. 
+
+Souheyb Boularak 05:44 Yes. Because the last time. I think. That. 
+
+Eleonore Wall 05:53 I can break it down into small amounts. Yeah, but not smaller than two. 
+
+Souheyb Boularak 05:58 Not smaller than two. So not possible to make it Swan. Then two. No. 
+
+Eleonore Wall 06:02 I mean let me just say we have tried it in past and we spent more time. The team spent all the time we have for customer support, chasing payments, and we didn't even have time to support our customers in anything. 
+
+Eleonore Wall 06:16 We almost went bankrupt because we wanted to help the people so the maximum at the moment. Is. The second part within the same month so like within four weeks. That is the best we can do but. We've almost went bankrupt because we really wanted to help the people and everything. 
+
+Eleonore Wall 06:37 And. It was not working. Let's put it mildly. Yeah. Because. 
+
+Souheyb Boularak 06:44 I have European accounts, a European Bank. So I'm dealing with an European Bank. And we can make automatic. Payments every month. So it's not possible for that. No, sorry. Move on. Second point difference. 
+
+Souheyb Boularak 07:16 So here in this point. You cannot get it. Yes. In the chat. 
+
+Eleonore Wall 07:23 Okay. I'm just trying to find it different. Payment from. Different working place possible. I'm interested in small bearish option for my work arrangement and Jaden called remote work hybrid mode and present optimalism seven to challenge. 
+
+Eleonore Wall 07:46 Look. This is something that. You can't agree with us on yeah, because. You will apply for different employers in Germany, and that employer will have their own policies. Okay. I don't know. For example, if you're saying you want I don't know. One day a week, working from home. 
+
+Eleonore Wall 08:12 That employer may offer it or may not offered. That is something that you need to agree with every single specific employer. Right? We will help you. To get connected with employers. But the exact conditions of the work environment, and whether. 
+
+Eleonore Wall 08:30 They have lunch and whatever that is you have to discuss with the employer that you're applying to. 
+
+Souheyb Boularak 08:36 That is not even anything of us. Yes. And if I get a contract with an Umbrire, I must say in Germany for all the time. Or I can discuss the. 
+
+Eleonore Wall 08:49 99% of the time Yes. Because. 99% of the time. Yes. I mean some have remote options, but within the country. What is your idea? You wanted to stay in your home country and work for German country. 
+
+Souheyb Boularak 09:07 For example. If I got a contract I can work in Germany for. Maybe two years. Then when I got to the Mud, Germany mindset and how things was working, I can, for example, take two or three months per year. 
+
+Souheyb Boularak 09:24 To work from my country is this possible. 
+
+Eleonore Wall 09:27 In Germany, depends on every single employer. There's nothing from our side. We can even have any influence. And it depends on the employer's policies. It depends how much they trust you personally. And also generally speaking at the moment, let's say there is much concern on it security. 
+
+Eleonore Wall 09:50 Right. And then when an employer wants to provide remote access, they have to have, like, vpn and all those things. There's much higher investment in infrast security infrastructure and training. Security training. So some companies may have some companies. 
+
+Eleonore Wall 10:06 May say, okay, every security sensitive work is only physically in the office. But that is like every single employer will have their own policies. Their own roles and also two years from now. They may be different than what they are today. So. 
+
+Souheyb Boularak 10:23 German laws. Is this possible regarding the regulations. 
+
+Eleonore Wall 10:31 Oh, my gosh. You're asking me something? Here. I think it's expensive for an employer. Let's put it this way because. They might have to cover extra insurance for. International travel. So I think in all cases it's really expensive for employees. That is for sure. 
+
+Eleonore Wall 10:51 So they have huge extra cost. And to meet the regulations that are there. And again, that is something some may do. Some may not do. 
+
+Souheyb Boularak 11:02 It's going to change or no, because. As the Blue cock program. 
+
+Eleonore Wall 11:07 Lot of loads is going to be modified. It has nothing to do with blue card. Absolutely nothing to do with blue card. This is data security, cybersecurity that has nothing to do with blue card. 
+
+Souheyb Boularak 11:19 And is there a chance. Of this regulation going to be modified regarding. This constraint or not. I mean from the German. 
+
+Eleonore Wall 11:32 Again, this is very little to do with government. This has to do with company policies and their own concern about cybersecurity. 
+
+Souheyb Boularak 11:41 So there is no government restriction about that. 
+
+Eleonore Wall 11:45 There is in terms of health insurance and those things. There is some things but. I'm not a professional on that. I can't give you detailed consultancy. There is certain boundaries on what? But I'm really not a label law expert on that. 
+
+Souheyb Boularak 12:02 And it's outside of our domain, right. 
+
+Eleonore Wall 12:05 We can give you professional how to migrate to Germany. But this is German Labor law. None of our team would label not included in the program. No, because that's nothing to do. Like if somebody says. 
+
+Eleonore Wall 12:17 I don't know. I want the penthouse. All people want everything like this is a personal preference that has nothing to do with migration. 
+
+Souheyb Boularak 12:29 Okay. So this is not a part of the program? No. Let's move to the next point. About. The. Success rate of getting a Visa Are you guaranteeing me. To. 
+
+Eleonore Wall 13:06 We cannot guarantee you a visa because this is nothing to do with our work. The visa is a decision of the embassy and that is depending on your University. It's depending on your criminal record. It is depending. 
+
+Eleonore Wall 13:20 On. Lots of things. About. Your Personal profile. Right. We can't do a police background check and all those things. And. The Visa process. What we can do is we give you. A general. Assessment whether you're generally eligible for the Blue Card in terms of the technical standards you surely are, and then the only thing. 
+
+Eleonore Wall 13:47 Is I think I always just like to cross check you do have the Bachelor degree. 
+
+Souheyb Boularak 13:54 In it regarding. My bachelors and my master's. You do have, right? Yeah, I do. Of course. Yeah. Okay. Just to confirm just assistance in terms of how I can go to the embassy. 
+
+Eleonore Wall 14:11 Yeah. We will help you to get the documents right. In terms of. Again. The Visa Blue card. You need an employer to be willing to hire you. That is another requirement. We'll be working to pass. But. The visa processes of the Embassy that is outside of our guarantee for obvious reasons. 
+
+Souheyb Boularak 14:33 So in case if I get a work permit from an employer, my chances of getting a visa going to be high or no. Absolutely. 
+
+Eleonore Wall 14:44 Yes, Absolutely Yes. In which how you could percentage, for example, 90% 80%. I don't know. Yeah. It depends a bit on the country again, because this is something that depending on the country out, they just be quickly checking. 
+
+Souheyb Boularak 15:07 You are in Algeria. Algeria. 
+
+Eleonore Wall 15:11 Okay. With Algeria. Okay with algeria. It's very specifically. I mean, generally, I can say it depends. We have an agreement with you. It's always a bit different from country to country. And the duration it takes the embassy's House lower fast. They work. 
+
+Eleonore Wall 15:42 And the percentage rates depending on. When there is a huge storm on the embassies, they have maybe a bit higher declining rate when there's just like too many people. Approaching them at the same time. 
+
+Eleonore Wall 15:56 When there's not extreme amounts, then they are maybe. A bit more, but in general. The fact that you receive the visa. I think when you qualify for everything is way above 90%, way above 90%. The thing is that sometimes it takes time or they resent you to redo the document or something like that. Yeah. They say the document is not complete. Come again. And then it takes you to get an appointment. Those things. 
+
+Eleonore Wall 16:25 If you qualify for all those, there is even a fast track Visa process to get the Visa. As such. Is more than 90% for sure. 
+
+Souheyb Boularak 16:36 If there wasn't any incident regarding political situation where German, for example. Restricts the Visa attributions. 
+
+Eleonore Wall 16:49 Even. Not Pakistan. I'm saying even Iran, right. Like we have been taking we have had somebody from Iran migrating to Germany last year, where it was in the midst of. So it's not Germany. That is typically it is the countries themselves. 
+
+Eleonore Wall 17:07 That sometimes make the restrictions, but not Germany. Okay. Because there are some countries, they have some problems with that. Like France, they're changing their gracious every time. So I must check that okay. In general. Allow me to say something in general. Germany. 
+
+Eleonore Wall 17:29 Is working. German government is working hard to make visa easier. Okay. I mean, that is a priority for now and. There's motion on the floor to make pass a law that will make it even more easy which is expected to pass next year. 
+
+Eleonore Wall 17:46 So. The whole let's say atmosphere is definitely trying to work to make things easier for people to migrate to Germany. 
+
+Souheyb Boularak 17:55 Yeah, because. I think the last time Germany need a lot of correct. 
+
+Eleonore Wall 18:04 Absolutely correct. 
+
+Souheyb Boularak 18:06 And I think regulation can be adjusted. To these situations. Because of that. I am asking those questions. Yeah. 
+
+Eleonore Wall 18:15 And generally, General. The Government does what. Does put lots of attention to try to make it easier. 
+
+Souheyb Boularak 18:23 Yeah. I have payments, agreements. Okay. So could you make me some clarification about Article four. Under the Payment agreement. Do you have the contract. 
+
+Eleonore Wall 18:50 Just open it again. Do you want to ask a specific question? Because then I can maybe directly answer from there. Could you please explain me more. Exactly what is your exact question. 
+
+Souheyb Boularak 19:08 With all payments option chosen. Active connection to potassium can be started after the full agreed share of upper payments has been completed. So you can search me for an employer. 
+
+Eleonore Wall 19:22 Until. 
+
+Souheyb Boularak 19:22 Pay 50000. Not between. The two parts. If I pay 75, then they correct. 
+
+Eleonore Wall 19:34 Yes. 
+
+Souheyb Boularak 19:36 So after paying all the affront. Start session. Correct. 
+
+Eleonore Wall 19:51 What else would you like to know on that. 
+
+Souheyb Boularak 19:54 I think that's all simple. Okay, I have a clarification about article seven. Okay. Let's go to Article Eleven, page 13. Yes. As seen here. If a candidate. Last time you told me. There no restriction about the number. 
+
+Souheyb Boularak 20:59 Of. Minimum or maximum, yes, but. I found this in article. 
+
+Eleonore Wall 21:10 Speaking about the Four. Okay. So it doesn't say to terminate just to be clear. It says. Until the fraud. Is corrected. Right. So that means. For example. Until. Whatever is corrected. So that means that doesn't mean that. 
+
+Eleonore Wall 21:34 We stop the process. 
+
+Souheyb Boularak 21:36 What does it mean? Exactly. Okay. 
+
+Eleonore Wall 21:39 It means just for. If a person gets invited. That means everything was well done. The documents were well done. The preparation, the video, everything. Let's say what is in our control is well done. But then they meet you and they are not as excited. 
+
+Eleonore Wall 22:00 Right to move on. So there is somewhere a gap that's between what they expect. And at least when it happens. In a consistent number of times. Okay. And one thing that can happen is somebody is just putting over exaggerating their technical skills or work attaching their skills. 
+
+Eleonore Wall 22:18 I'm a php expert, and then reality. They have watched a YouTube video about php. Let's say. 
+
+Souheyb Boularak 22:24 And who could judge if a conflict happened. 
+
+Eleonore Wall 22:27 Obviously. If we see it happens for consistent meaning. Let's not one employer, but it's multiple employers who say the same thing, right there's a consistency. Then. Obviously. Then there's something right there. 
+
+Eleonore Wall 22:41 Right. Okay. 
+
+Souheyb Boularak 22:44 So it's all about consistency. So if you say someone that an employer. Does. Behave. Like. Not others. So. You won't germinate the contract. 
+
+Eleonore Wall 22:59 No, we don't terminate. Also, in this case, it's not a termination. It is a pass until it's corrected. For example, right. It's a pulse until corrected. Yeah, until corrected. It's not a termination. 
+
+Souheyb Boularak 23:11 Not a termination. This is not a termination. 
+
+Eleonore Wall 23:20 Until it's correct. 
+
+Souheyb Boularak 23:22 Yes. The procedure of correction. 
+
+Eleonore Wall 23:26 Depends what the problem is. The problem depends what the problem is. Right? Just, for example, we've just spoken to just to give you a completely different example to a Nigerian gentleman just 2 hours back. Right. With Henry, that gentleman. 
+
+Eleonore Wall 23:40 Has this very cute Nigerian accent, but it's really hard for a non Nigerian to understand what he's saying. Yeah. So that means he may technically pass the German B one. He knows all the word. He passes all the exams. But when somebody talks to him, people just don't understand what he's saying. 
+
+Eleonore Wall 23:59 Just, for example. So employers may say, jude, we can't talk to you because we don't understand what you're saying. Your pronunciation is just terrible. For example. Right. Yeah. There's no way we can work with you. So that would be a feedback. Just an example of it. Yeah. 
+
+Eleonore Wall 24:16 And if. An employee, multiple employers say, look, we just don't understand what this person is saying. There's no point to connect to more employers. But then we need to say to that gentleman, hey, please take another month, take some pronunciation training. 
+
+Eleonore Wall 24:32 Work. On that. Come back. Right. This is not a termination, but there would be specific feedback. I'm just giving the Nigerian pronunciation, because that is something that is real. It is difficult to detect it really before that let's say because he passed all the exams. He has the B one. 
+
+Eleonore Wall 24:48 But then employers say, look, his pronunciation is so bad we can't even talk to him. So that's a feedback. 
+
+Souheyb Boularak 24:57 So the proceed of correction. So. It's doing. In term. You could make yourself better doing that and that and then iterate correct. Not terminated. Correct. 
+
+Eleonore Wall 25:13 Correctly. Yeah. Correct. 
+
+Souheyb Boularak 25:17 The next point. Diminishing autism. I'm. 
+
+Eleonore Wall 26:19 Remembering the Nigerian accent. Have to just think about Nigerian accent. No, Henry. 
+
+Souheyb Boularak 26:26 Excuse me. Just. Trans. That's. All. 
+
+Eleonore Wall 27:04 Okay. 
+
+Souheyb Boularak 27:23 Okay. So I'm getting more clarification about the points I wanted to know. So what we're going to do. Now, if we could have. Draft regarding. Those points. 
+
+Eleonore Wall 27:40 What do you mean, a draft? What exactly mean by a draft. 
+
+Souheyb Boularak 27:46 I will take time. To think about your answers. There. 
+
+Eleonore Wall 27:51 And. 
+
+Souheyb Boularak 27:53 If it's suitable for me. Sure. How much time do you need for that. Let's say. Two days. 
+
+Eleonore Wall 28:03 Two days by day. Yes. 
+
+Souheyb Boularak 28:06 And Friday, I will send you. My if I have some clients or if I have some. Objection. 
+
+Eleonore Wall 28:15 I will send you my suggestions. Okay. Shall we schedule quickly for Friday at the same time right now. Okay, let's do it. At. 05:00 p.m. 
+
+Souheyb Boularak 28:29 Or 06:00 p.m.. Is this possible right now? It's almost 02:00 p.m.. German time. So I've been the same time, sir, give me your schedule. 
+
+Eleonore Wall 28:38 For Friday. Friday. Yeah. Would be 430. 
+
+Souheyb Boularak 28:48 430. Can we make it five. 
+
+Eleonore Wall 28:58 Oh, wait. 
+
+Souheyb Boularak 29:02 Your time talking about Can we make it 535. 30. Okay. It's 430 for me. So yes. 530. Yes. So by Friday. Friday. 
+
+Eleonore Wall 29:18 In Friday morning by 10:00 A.m.. I will send you an email. Send me a WhatsApp? Because I've not received you. I think this probably in the big pool of emails. 
+
+Souheyb Boularak 29:28 After I elaborate. My notes. Okay. Yeah. I will send you the maypoints and then we can penalize. Okay. Make sure to send me to WhatsApp? Please. Yes. So I will send it to you by. 
+
+Eleonore Wall 29:44 Friday morning. Maximum. Okay. That's fine. Don't stress yourself. Okay. Friday, 05:00 p.m.. Henry, you just scheduled my calendar directly. Now we take it from there anyway. We discuss it in a bit. Okay, let's just take that. 
+
+Eleonore Wall 30:02 And then you put down your final questions. How do you feel about this conversation today. 
+
+Souheyb Boularak 30:08 I feel it's been more. Harsh. 
+
+Eleonore Wall 30:14 Yeah. My side. I mean on my side. 
+
+Souheyb Boularak 30:19 I feel like it was more offensive. But. Would you excuse me? Because. I'm just having some busy times with Rays. Mexico Del is too tight. And I have to talk about like seven points in 30 minutes. And that's. 
+
+Eleonore Wall 30:36 Where I go. And I really appreciate you asking the detailed question because. This is professional and perfectly okay. Yeah, it's a contract. It's an important decision. We do lots of automations in the early part of the process, but later when somebody is serious and professional everything we have enough time to go through and clarify all points. Don't forget. 
+
+Souheyb Boularak 30:59 Excuse me for going fast, because I'm having some tight scheduling for today. 
+
+Eleonore Wall 31:03 Yeah. Me too. Me too. I'm having the next one. 
+
+Souheyb Boularak 31:06 I did seven points in 30 minutes. And sometimes we don't get enough answers and enough explanation. Yeah, but we'll take our time. We'll take the next meeting. Don't worry. Okay, so let's make an agreement for that. So. 05:30 p.m. 
+
+Eleonore Wall 31:23 Yes, Henry. You schedule five, and then you reschedule to 530. So don't be confused. Henry is going to schedule and then reschedule because otherwise we can't use the automation because I'm scheduling at a time that is not available in my calendar. Okay, so you'll schedule the 05:00 p.m.. Henry. Right. And then you reschedule it to 530 from my other calendar. So that's a Zoom link. 
+
+Souheyb Boularak 31:46 Is created. Yes. So. It will be 430. For algeria, for my Algerian. 
+
+Eleonore Wall 31:54 Okay. Fine. Yeah. Just don't get confused with scheduling and rescheduling 30 minutes later. Yeah, don't get confused about it. 
+
+Souheyb Boularak 32:03 Yes. Because. They got this thing happening. 
+
+Eleonore Wall 32:06 Multiple times. Okay. No. Now it will be on purpose. Because. It's just I'm scheduling a time that is not available in my calendar. 
+
+Souheyb Boularak 32:19 By 10:00 a.m. Slide it back. Okay. 
+
+Eleonore Wall 32:27 Perfect. Very professional, very professional. 
+
+Souheyb Boularak 32:34 Very organized. 
+
+Eleonore Wall 32:37 Very well. Okay. Beautiful. I wish you good afternoon. And I'm really looking forward to see you again. 
+
+Souheyb Boularak 32:45 Thank you. 
+
+Eleonore Wall 32:49 About. 
+
+Souheyb Boularak 32:50 This conversation. 
+
+Eleonore Wall 32:52 Okay, I'm late for the next meeting, but I'll quickly tell you. I said my impression is you're very professionally prepared. This is standing out. You're very diligent. And this is very good. I appreciate those things. It's very German. You'll feel happy in Germany with us. I love working like that. Yes. 
+
+Souheyb Boularak 33:11 I can see you'll be happy in Germany with that. Trust me. I wish to. Okay. Have a good afternoon. All bad goodbye, Henry. Goodbye bye bye. 
