@@ -1,0 +1,28 @@
+{
+  "Candidate Name": "Souheyb Boularak",
+  "Interview Date": "26/07/2023",
+  "Interview Summary": "The candidate, Souheyb Boularak, had a conversation with the interviewer, Eleonore Wall, regarding various points related to the job opportunity. Souheyb had some concerns and questions about the payment breakdown, work arrangements, visa guarantee, and termination policies. Eleonore provided detailed explanations and clarified the candidate's doubts. Souheyb requested a draft of the discussed points to review and suggested sending his suggestions by Friday. The interview ended on a positive note, with both parties looking forward to the next meeting.",
+  "Work Experience": "NA",
+  "Education": "The candidate confirmed having a Bachelor's and Master's degree.",
+  "Skills": "NA",
+  "Career Achievements": "NA",
+  "Motivation and Interest": "NA",
+  "Salary Expectations": "NA",
+  "Availability and Start Date": "NA",
+  "Reasons for Job Change": "NA",
+  "Work Preferences": "NA",
+  "Legal and Work Authorization": "The candidate mentioned having European accounts and dealing with a European bank, indicating legal and work authorization in Europe.",
+  "Candidate Concerns": "The candidate had concerns about the payment breakdown, work arrangements, visa guarantee, and termination policies.",
+  "Questions Asked by the Candidate and Answers": [
+    {"Question": "Can the upfront payment be broken down into smaller amounts?", "Answer": "No, the maximum breakdown is within the same month."},
+    {"Question": "Can I work remotely from my home country?", "Answer": "Work arrangements depend on the specific employer's policies."},
+    {"Question": "Can I take a few months per year to work from my home country?", "Answer": "Work arrangements depend on the specific employer's policies."},
+    {"Question": "What is the success rate of getting a visa?", "Answer": "The success rate depends on various factors, but generally, if you qualify for the Blue Card and have a job offer, the chances are above 90%."},
+    {"Question": "What happens if there is a conflict with an employer?", "Answer": "If there is a consistent issue with multiple employers, there will be feedback and a pause until the issue is corrected."},
+    {"Question": "Can I get a guarantee for a visa if I have a work permit?", "Answer": "Having a work permit increases the chances of getting a visa, but it is not guaranteed."},
+    {"Question": "What are the restrictions on the number of employers?", "Answer": "There are no specific restrictions mentioned, but it depends on individual employers and their policies."},
+    {"Question": "Can I receive a draft of the discussed points?", "Answer": "The candidate requested a draft to review and provide suggestions."},
+    {"Question": "What is the next step after reviewing the draft?", "Answer": "The candidate will send their suggestions by Friday, and a follow-up meeting will be scheduled."},
+    {"Question": "How did the candidate feel about the conversation?", "Answer": "The candidate mentioned feeling that the conversation was rushed due to time constraints but appreciated the detailed answers provided by the interviewer."}
+  ]
+}

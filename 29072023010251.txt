@@ -1,0 +1,26 @@
+{
+  "Candidate Name": "Jimmy Darko",
+  "Interview Date": "07/28/2023",
+  "Interview Summary": "Jimmy Darko is interested in joining the program to migrate to Germany. He expressed excitement about the opportunity. He had a previous meeting with a team member named McDonald. He inquired about the possibility of selecting specific locations in Germany to live in. He also asked about the cost of accommodation and if he would have to pay for it himself. The interviewer explained the difference between a work visa and a blue card, stating that the blue card has additional perks and requirements. Jimmy mentioned that he has a Bachelor's degree in mechanical engineering but it may not be relevant for the blue card. The interviewer clarified that a minimum salary range is required to be eligible for the blue card. Jimmy also asked about the duration of the language course and the possibility of applying for German-speaking jobs. The interviewer explained that the interviews for German-speaking jobs would be conducted in German and suggested starting the language course as soon as possible. Jimmy expressed his financial situation and requested to delay the payment for the program. The interviewer agreed to split the payment into two installments and suggested starting the program without the additional English language option. They discussed the possibility of Jimmy's father visiting the company in Frankfurt. They agreed on a start date for the program in mid-September. Jimmy mentioned his current salary and the interviewer explained that it may not be relevant for the visa process. They discussed the possibility of adding Jimmy's spouse to the language class. The interviewer shared the contract and suggested Jimmy take his time to review and complete it. They concluded the interview with well wishes for Jimmy's future.",
+  "Work Experience": "NA",
+  "Education": "Bachelor's degree in mechanical engineering",
+  "Skills": "NA",
+  "Career Achievements": "NA",
+  "Motivation and Interest": "Interested in joining the program to migrate to Germany",
+  "Salary Expectations": "NA",
+  "Availability and Start Date": "Mid-September",
+  "Reasons for Job Change": "NA",
+  "Work Preferences": "NA",
+  "Legal and Work Authorization": "Has a Bachelor's degree but may not be eligible for the blue card",
+  "Candidate Concerns": "Inquired about the cost of accommodation and the duration of the language course",
+  "Questions Asked by the Candidate and Answers": [
+    {"Question": "Is it possible to select specific locations in Germany to live in?", "Answer": "The more narrow you put yourself in terms of city, the less options you have."},
+    {"Question": "Do I have to pay for my own accommodation?", "Answer": "If you have a proper job, you would be expected to pay for your own accommodation."},
+    {"Question": "Do I need a Bachelor's degree in IT to be eligible for the blue card?", "Answer": "Yes, a Bachelor's degree in IT is required for the blue card."},
+    {"Question": "How long does the language course take?", "Answer": "The language course takes nine months."},
+    {"Question": "Can I start applying for German-speaking jobs while taking the language course?", "Answer": "The interviews for German-speaking jobs would be conducted in German, so you would need to complete the language course first."},
+    {"Question": "Can my father visit the company in Frankfurt?", "Answer": "While it is a bit far, your father can physically visit the company in Frankfurt."},
+    {"Question": "Can I delay the payment for the program?", "Answer": "You can split the payment into two installments and start the program once you have made the first half payment."},
+    {"Question": "Can my spouse join the language class?", "Answer": "Your spouse can join the language class for an additional fee of 300 Euro."}
+  ]
+}
